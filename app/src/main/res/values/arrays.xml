@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="virusyok">
+        <item>Sadece İnternette gezinirken </item>
+        <item>Arkadaşlarınızdan dosya alırken</item>
+        <item>DEĞİL</item>
+        <item>Telefonunuz açık kaldığı her an</item>
+        <item>Güvendesiniz!</item>
+    </string-array>
+
+</resources>
